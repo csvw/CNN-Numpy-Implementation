@@ -1,0 +1,2 @@
+# CNN-Numpy-Implementation
+Manually implemented a convolutional neural network without using modern libraries such as pytorch and tensorflow. I built this CNN with the aim of learning more about the low level details of deep neural networks. The CNN works on simple datasets such as mnist or shape classification, but none of the more advanced features present in modern libraries (such as dropout or regularization) have been implemented.

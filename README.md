@@ -47,67 +47,39 @@ I've included below a list of resources I consulted while developing my neural n
 
 Resources
 
-Ivanov, S. (2019, April 16). 37 Reasons why your Neural Network is not working. Retrieved from https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607.
+Agarwal, M. (2017, December 18). Back Propagation in Convolutional Neural Networks - Intuition and Code. Retrieved from https://becominghuman.ai/back-propagation-in-convolutional-neural-networks-intuition-and-code-714ef1c38199.
 
-Stack Exchange user sjishan (2017, Febuary 10). Neural Network for Multiple Output Regression Retrieved from https://datascience.stackexchange.com/questions/16890/neural-network-for-multiple-output-regression?rq=1.
-
-Nielsen, & A., M. (1970, January 1). Neural Networks and Deep Learning. Retrieved from http://neuralnetworksanddeeplearning.com/chap2.html.
-
-ML Cheat Sheet. Backpropagation. (n.d.). Retrieved from https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html.
-
-Ng, A. (n. d.). Improving Neural Networks: Hyperparameter tuning, Regularization and Optimization. Fitting batch norm into a neural network. Retrieved from https://www.coursera.org/learn/deep-neural-network/lecture/RN8bN/fitting-batch-norm-into-a-neural-network
-
-Karpathy, A. (2016, December 19). Yes you should understand backprop. Retrieved from https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b.
-
-Zakka, K. (n. d.). Deriving the Gradient for the Backward Pass of Batch Normalization. Retrieved from https://kevinzakka.github.io/2016/09/14/batch_normalization/.
-
-Dahal, P. (2017, May 17). BatchNorm Layer - Understanding and eliminating Internal Covariance Shift. Retrieved from https://deepnotes.io/batchnorm.
+Bendersky, E. (2018, May 22) Backpropagation through a fully-connected layer. Retrieved from https://eli.thegreenplace.net/2018/backpropagation-through-a-fully-connected-layer/.
 
 Bendersky, E. (October 28, 2016). The Softmax function and its derivative. Retrieved from https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/
 
+Brownlee, J. (2019, October 3). How to Fix the Vanishing Gradients Problem Using the ReLU. Retrieved from https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/.
+
+Dahal, P. (2017, May 17). BatchNorm Layer - Understanding and eliminating Internal Covariance Shift. Retrieved from https://deepnotes.io/batchnorm.
+
 Dahal, P. (2017, May 28). Classification and Loss Evaluation - Softmax and Cross Entropy Loss. Retrieved from https://deepnotes.io/softmax-crossentropy.
-
-Victor Zhou. (2019, August 8). CNNs, Part 1: An Introduction to Convolutional Neural Networks. Retrieved from https://victorzhou.com/blog/intro-to-cnns-part-1/
-
-Victor Zhou. (2019, August 8). CNNs, Part 2: Training a Convolutional Neural Network. Retrieved from https://victorzhou.com/blog/intro-to-cnns-part-2/.
 
 Dahal, P. (2017, May 7). Convolution Layer - The core idea behind CNNs. Retrieved from https://deepnotes.io/convlayer.
 
 Dahal, P. (2017, May 5). Introduction to Convolutional Neural Networks. Retrieved from https://deepnotes.io/intro.
 
-StackOverflow user neel (2017, May 15). ValueError: could not broadcast input array from shape (224,224,3) into shape (224,224). Retrieved from https://stackoverflow.com/questions/43977463/valueerror-could-not-broadcast-input-array-from-shape-224-224-3-into-shape-2.
-
-Brownlee, J. (2019, October 3). How to Fix the Vanishing Gradients Problem Using the ReLU. Retrieved from https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/.
-
-StackExchange user Danny. (2015, September 12). Neural network backpropagation with RELU. Retrieved from https://stackoverflow.com/questions/32546020/neural-network-backpropagation-with-relu.
-
-In Convolutional Nets (CNN) isn't the maxpool layer and ReLU layer redundant? (n.d.). Retrieved from https://www.quora.com/In-Convolutional-Nets-CNN-isnt-the-maxpool-layer-and-ReLU-layer-redundant.
-
 Dahal, P. (2017, May 28). Classification and Loss Evaluation - Softmax and Cross Entropy Loss. Retrieved from https://deepnotes.io/softmax-crossentropy.
-
-StackOverflow user DilithiumMatrix. (2015, November 6). numpy max vs amax vs maximum. Retrieved from https://stackoverflow.com/questions/33569668/numpy-max-vs-amax-vs-maximum.
-
-StackOverflow user blaz. (2015, December 7). Difference between numpy dot() and Python 3.5+ matrix multiplication @. Retrieved from https://stackoverflow.com/questions/34142485/difference-between-numpy-dot-and-python-3-5-matrix-multiplication.
-
-StackExchange user Jonathan DEKHTIAR. (2017, September 20). Why convolutions always use odd-numbers as filter_size. Retrieved from https://datascience.stackexchange.com/questions/23183/why-convolutions-always-use-odd-numbers-as-filter-size.
-
-StackExchange user Tendero. (2017, July 15). How to update filter weights in CNN? Retrieved from https://stats.stackexchange.com/questions/291708/how-to-update-filter-weights-in-cnn
-
-Rathi, M. (n.d.). Backpropagation in a Convolutional Neural Network. Retrieved from https://mukulrathi.com/demystifying-deep-learning/conv-net-backpropagation-maths-intuition-derivation/.
-
-Agarwal, M. (2017, December 18). Back Propagation in Convolutional Neural Networks - Intuition and Code. Retrieved from https://becominghuman.ai/back-propagation-in-convolutional-neural-networks-intuition-and-code-714ef1c38199.
-
-StackExchange user koryakinp. (2018, Febuary 6). back propagation in CNN. Retrieved from https://datascience.stackexchange.com/questions/27506/back-propagation-in-cnn.
-
-StackOverflow user JohnAllen. (2016, October 5). Possible explanations for loss increasing? Retrieved from https://stackoverflow.com/questions/39868939/possible-explanations-for-loss-increasing.
-
-StackOverflow user Devin Haslam. (2018, Febuary 3). Cross entropy loss suddenly increases to infinity. Retrieved from https://stackoverflow.com/questions/48600374/cross-entropy-loss-suddenly-increases-to-infinity.
 
 Escontrela, A. (2018, June 17). Convolutional Neural Networks from the ground up. Retrieved from https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1.
 
+Hallström, E. (2016, December 5). Backpropagation from the beginning. Retrieved from https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d.
+
+In Convolutional Nets (CNN) isn't the maxpool layer and ReLU layer redundant? (n.d.). Retrieved from https://www.quora.com/In-Convolutional-Nets-CNN-isnt-the-maxpool-layer-and-ReLU-layer-redundant.
+
+Ivanov, S. (2019, April 16). 37 Reasons why your Neural Network is not working. Retrieved from https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607.
+
+Karpathy, A. (2016, December 19). Yes you should understand backprop. Retrieved from https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b.
+
+ML Cheat Sheet. Backpropagation. (n.d.). Retrieved from https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html.
+
 THE MNIST DATABASE. (n.d.). Retrieved from http://yann.lecun.com/exdb/mnist/.
 
-Bendersky, E. (2018, May 22) Backpropagation through a fully-connected layer. Retrieved from https://eli.thegreenplace.net/2018/backpropagation-through-a-fully-connected-layer/.
+Ng, A. (n. d.). Improving Neural Networks: Hyperparameter tuning, Regularization and Optimization. Fitting batch norm into a neural network. Retrieved from https://www.coursera.org/learn/deep-neural-network/lecture/RN8bN/fitting-batch-norm-into-a-neural-network
 
 Ng, A. (n. d.). Neural Networks and Deep Learning. Gradient descent for Neural Networks. Retrieved from https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Wh8NI/gradient-descent-for-neural-networks.
 
@@ -117,6 +89,34 @@ Ng, A. (n. d.). Improving Deep Neural Networks: Hyperparameter tuning, Regulariz
 
 Ng, A. (n. d.). Convolutional Neural Networks. One Layer of a Convolutional Network. Retrieved from https://www.coursera.org/learn/deep-neural-network/lecture/4ptp2/normalizing-activations-in-a-network.
 
+Nielsen, & A., M. (1970, January 1). Neural Networks and Deep Learning. Retrieved from http://neuralnetworksanddeeplearning.com/chap2.html.
+
 Rai, S. (2017, December 24). Forward And Backpropagation in Convolutional Neural Network. Retrieved from https://medium.com/@2017csm1006/forward-and-backpropagation-in-convolutional-neural-network-4dfa96d7b37e.
 
-Hallström, E. (2016, December 5). Backpropagation from the beginning. Retrieved from https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d.
+Rathi, M. (n.d.). Backpropagation in a Convolutional Neural Network. Retrieved from https://mukulrathi.com/demystifying-deep-learning/conv-net-backpropagation-maths-intuition-derivation/.
+
+Stack Exchange user sjishan (2017, Febuary 10). Neural Network for Multiple Output Regression Retrieved from https://datascience.stackexchange.com/questions/16890/neural-network-for-multiple-output-regression?rq=1.
+
+StackOverflow user neel (2017, May 15). ValueError: could not broadcast input array from shape (224,224,3) into shape (224,224). Retrieved from https://stackoverflow.com/questions/43977463/valueerror-could-not-broadcast-input-array-from-shape-224-224-3-into-shape-2.
+
+StackExchange user Danny. (2015, September 12). Neural network backpropagation with RELU. Retrieved from https://stackoverflow.com/questions/32546020/neural-network-backpropagation-with-relu.
+
+StackOverflow user DilithiumMatrix. (2015, November 6). numpy max vs amax vs maximum. Retrieved from https://stackoverflow.com/questions/33569668/numpy-max-vs-amax-vs-maximum.
+
+StackOverflow user blaz. (2015, December 7). Difference between numpy dot() and Python 3.5+ matrix multiplication @. Retrieved from https://stackoverflow.com/questions/34142485/difference-between-numpy-dot-and-python-3-5-matrix-multiplication.
+
+StackExchange user Jonathan DEKHTIAR. (2017, September 20). Why convolutions always use odd-numbers as filter_size. Retrieved from https://datascience.stackexchange.com/questions/23183/why-convolutions-always-use-odd-numbers-as-filter-size.
+
+StackExchange user Tendero. (2017, July 15). How to update filter weights in CNN? Retrieved from https://stats.stackexchange.com/questions/291708/how-to-update-filter-weights-in-cnn
+
+StackExchange user koryakinp. (2018, Febuary 6). back propagation in CNN. Retrieved from https://datascience.stackexchange.com/questions/27506/back-propagation-in-cnn.
+
+StackOverflow user JohnAllen. (2016, October 5). Possible explanations for loss increasing? Retrieved from https://stackoverflow.com/questions/39868939/possible-explanations-for-loss-increasing.
+
+StackOverflow user Devin Haslam. (2018, Febuary 3). Cross entropy loss suddenly increases to infinity. Retrieved from https://stackoverflow.com/questions/48600374/cross-entropy-loss-suddenly-increases-to-infinity.
+
+Zakka, K. (n. d.). Deriving the Gradient for the Backward Pass of Batch Normalization. Retrieved from https://kevinzakka.github.io/2016/09/14/batch_normalization/.
+
+Victor Zhou. (2019, August 8). CNNs, Part 1: An Introduction to Convolutional Neural Networks. Retrieved from https://victorzhou.com/blog/intro-to-cnns-part-1/
+
+Victor Zhou. (2019, August 8). CNNs, Part 2: Training a Convolutional Neural Network. Retrieved from https://victorzhou.com/blog/intro-to-cnns-part-2/.

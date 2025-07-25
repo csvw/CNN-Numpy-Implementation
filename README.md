@@ -9,7 +9,7 @@ My most sophisticated and successful network was a multiple regression CNN that 
 
 The Raven's Progressive Matrices (RPM) visual IQ test has been used by AI researchers as a testbed for developing new strategies, algorithms, and cognitive agents. By building agents that can solve progressively more difficult problems, researchers hope to push the state of the art in artificial intelligence. An example RPM problem is displayed below.
 
-![alt text](https://github.com/csvw/CNN-Numpy-Implementation/blob/master/Basic%20Problem%20B-10.PNG)
+![alt text](https://raw.githubusercontent.com/csvw/Ravens-Progressive-Matrices-Frontend/refs/heads/main/Basic%20Problem%20D-07.PNG)
 
 In CS 7637, Knowledge-Based Artificial Intelligence, students are tasked with developing solutions to RPM problems. Since this is an open research problem, students are encouraged to explore novel strategies and dive into the literature on the subject. The cognitive agent is developed in three stages over the course of the semester, with students solving more difficult problems in each successive stage.
 

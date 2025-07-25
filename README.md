@@ -1,5 +1,5 @@
 # CNN-Numpy-Implementation
-Manually implemented a convolutional neural network without using modern libraries such as pytorch and tensorflow. In other words, I built a neural network from scratch which involved implementing both forward and backpropagation. I coded backpropagation by hand, manually implementing the partial derivatives of every layer using numpy. An example of the equations I utilized can be found here.
+Manually implemented a convolutional neural network without using modern libraries such as pytorch and tensorflow. This involved implementing both forward and backpropagation by hand. I manually implementing the partial derivatives of every layer using numpy. An example of the equations I utilized can be found here.
 
 Bendersky, E. (October 28, 2016). The Softmax function and its derivative. Retrieved from https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/
 

@@ -19,13 +19,13 @@ I used this as an opportunity to gain more exposure to deep learning. A complete
 
 Some example images from my shape generator are shown below.
 
-![alt text](https://github.com/csvw/CNN-Numpy-Implementation/blob/master/sc2.png)
-![alt text](https://github.com/csvw/CNN-Numpy-Implementation/blob/master/sc3.png)
-![alt text](https://github.com/csvw/CNN-Numpy-Implementation/blob/master/sc4.png)
+![alt text](https://raw.githubusercontent.com/csvw/CNN-Numpy-Implementation/refs/heads/master/sc2.png)
+![alt text](https://raw.githubusercontent.com/csvw/CNN-Numpy-Implementation/refs/heads/master/sc3.png)
+![alt text](https://raw.githubusercontent.com/csvw/CNN-Numpy-Implementation/refs/heads/master/sc4.png)
 
 The image below depicts my network training on the mnist dataset. The classification accuracy score on the right increases and levels off at around 90%.
 
-![alt text](https://github.com/csvw/CNN-Numpy-Implementation/blob/master/sc5.png)
+![alt text](https://raw.githubusercontent.com/csvw/CNN-Numpy-Implementation/refs/heads/master/sc5.png)
 
 For those who are interested, I provide an overview of my development process below.
 
